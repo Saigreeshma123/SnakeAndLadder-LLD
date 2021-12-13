@@ -8,6 +8,7 @@
   on the bottom of a ladder. Good Luck and Have FUN!!!
   # Sample Ouput:
   
+  
   ****************Enter Number of Snakes*******************\
 4\
 62 5\
